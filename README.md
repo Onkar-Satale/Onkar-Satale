@@ -86,9 +86,9 @@
 ## 📊 Development Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=nightowl" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Satale&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Satale&theme=nightowl" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=nightowl" />
 </p>
 
 
