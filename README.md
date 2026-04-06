@@ -164,19 +164,17 @@ Centralized platform for managing academic users, courses, and communication.
 ## 📊 Development Activity
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Onkar-Satale&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Onkar-Satale&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ---
 
 ## 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
