@@ -45,7 +45,7 @@
 
 ### ⚙️ Backend Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ### 🤖 AI / GenAI Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,langchain,langgraph" />
 </p>
 
 <p align="left">
@@ -75,7 +75,14 @@
 
 ### 🧰 Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase" />
+</p>
+
+---
+
+### 🧰 Deployment Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=versal,render,netlify,streamlight" />
 </p>
 
 ---
