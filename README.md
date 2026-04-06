@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Onkar+Satale;Full+Stack+Developer+%7C+GenAI+Builder;MERN+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+into+Real+World+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=39FF14&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Onkar+Satale;Full+Stack+Developer+%7C+GenAI+Builder;MERN+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+into+Real+World+Apps+🚀" />
 </p>
 
 ---
