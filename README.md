@@ -163,9 +163,13 @@ Centralized platform for managing academic users, courses, and communication.
 
 ## 📊 Development Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=Onkar-Satale&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Onkar-Satale&theme=tokyonight" />
+</p>
+
+---
 
 ---
 
