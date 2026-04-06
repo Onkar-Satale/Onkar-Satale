@@ -81,12 +81,13 @@
 → Generates dynamic packing lists based on destination & weather  
 
 ---
+
 ## 📊 Development Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Satale&theme=chartreuse-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Satale&theme=tokyonight" />
 </p>
 
 ---
@@ -94,7 +95,15 @@
 ## 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=chartreuse-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -102,7 +111,7 @@
 ## 🏆 Achievements & Progress
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onkar-Satale&theme=matrix" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkar-Satale&theme=onedark" />
 </p>
 
 ---
