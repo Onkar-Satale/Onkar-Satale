@@ -82,56 +82,72 @@
 
 ## 🚀 Featured Work
 
-🔹 PackMate – AI Travel Assistant
-
-MERN + GenAI | Aug 2025 – Jan 2026
+### 🔹 PackMate – AI Travel Assistant  
+**MERN + GenAI | Aug 2025 – Jan 2026**
 
 AI-powered platform that generates smart packing lists based on destination, weather, and trip duration.
 
-🔧 Tech: React, Node.js, Express, MongoDB, FastAPI, Groq (Llama 3), JWT
+**🔧 Tech:** React, Node.js, Express, MongoDB, FastAPI, Groq (Llama 3), JWT  
 
-✨ Highlights:
+**✨ Highlights:**
+- 🤖 AI-based packing recommendations  
+- 🌦️ Weather-aware planning  
+- 📦 Export to DOCX  
+- 🔐 Secure authentication  
 
-🤖 AI-based packing recommendations
-🌦️ Weather-aware planning
-📦 Export to DOCX
-🔐 Secure authentication
-<p> <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" /> </p>  
+<p>
+  <a href="https://packmatefrontend.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Onkar-Satale/Packmate">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-🔹 Swift API – Smart API Testing Tool
-
-MERN + GenAI | Dec 2025 – Jan 2026
+### 🔹 Swift API – Smart API Testing Tool  
+**MERN + GenAI | Dec 2025 – Jan 2026**
 
 Full-stack API testing platform with an AI-powered debugging assistant for resolving API errors.
 
-🔧 Tech: React, Node.js, Express, MongoDB, FastAPI, Groq
+**🔧 Tech:** React, Node.js, Express, MongoDB, FastAPI, Groq  
 
-✨ Highlights:
+**✨ Highlights:**
+- 📡 API requests (GET, POST, PUT, DELETE)  
+- 🧠 AI error explanation & fixes  
+- 📂 Request history & collections  
+- 🔐 Secure authentication  
 
-📡 API requests (GET, POST, PUT, DELETE)
-🧠 AI error explanation & fixes
-📂 Request history & collections
-🔐 Secure authentication
-<p> <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" /> </p> 
-
+<p>
+  <a href="https://swift-api-iota.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Onkar-Satale/Swift_API_mern">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+  </a>
+</p>
 ---
-🔹 Academic Engagement Portal
-
-Full Stack Web App | Jan 2024 – May 2024
+### 🔹 Academic Engagement Portal  
+**Full Stack Web App | Jan 2024 – May 2024**
 
 Centralized platform for managing academic users, courses, and communication.
 
-🔧 Tech: React, Node.js, Express, SQL
+**🔧 Tech:** React, Node.js, Express, SQL  
 
-✨ Highlights:
+**✨ Highlights:**
+- 🏫 Academic management system  
+- 🔗 Relational database design  
+- 🔐 Scalable backend  
 
-🏫 Academic management system
-🔗 Relational database design
-🔐 Scalable backend
-<p> <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" /> </p>
-
+<p>
+  <a href="https://academic-engagement-portal-q9rw.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Onkar-Satale/Academic-Engagement-Portal">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+  </a>
+</p>
 ---
 
 
