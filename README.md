@@ -82,8 +82,8 @@
 
 ### 🚀 Deployment Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,render,netlify" />
-  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render" />  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit" />
 </p>
 
 ---
