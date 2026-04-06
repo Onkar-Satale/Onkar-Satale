@@ -85,17 +85,16 @@
 ## 📊 Development Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=chartreuse-dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Satale&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Satale&theme=chartreuse-dark" />
 </p>
-
 ---
 
 ## 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=tokyonight" />
 </p>
 
 ---
