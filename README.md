@@ -34,7 +34,7 @@
 
 ---
 
-## 🧠 Tech Arsenal
+## ⚙️ Tech Stack
 
 ### 🎨 Frontend Development
 <p align="left">
@@ -51,10 +51,14 @@
 ---
 
 ### 🤖 AI / GenAI Stack
-- OpenAI API  
-- LangChain  
-- ChatGPT Integration  
-- AI Web Applications  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink" />
+  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi" />
+</p>
 
 ---
 
