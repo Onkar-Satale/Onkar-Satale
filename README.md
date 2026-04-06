@@ -51,20 +51,20 @@
 ---
 
 ### 🤖 AI / GenAI Stack
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,langchain,langgraph" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink" />
+  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface" />
   <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks" />
   <img src="https://img.shields.io/badge/VectorDB-0D1117?style=for-the-badge&logo=redis" />
 </p>
 
-----
+---
 
 ### 🗄️ Data Management
 <p align="left">
@@ -80,9 +80,10 @@
 
 ---
 
-### 🧰 Deployment Tools
+### 🚀 Deployment Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=versal,render,netlify,streamlight" />
+  <img src="https://skillicons.dev/icons?i=vercel,render,netlify" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit" />
 </p>
 
 ---
