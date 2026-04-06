@@ -81,51 +81,54 @@
 
 ## 🚀 Featured Work
 
-### 🔹 PackMate – AI Travel Assistant  
-MERN + GenAI  
-<p>
-  🤖 AI packing lists based on weather & trip  
-  🔐 JWT Auth | 📦 Export to DOCX  
-  <br/>
-  <a href="https://packmatefrontend.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="32"/>
-  </a>
-  <a href="https://github.com/Onkar-Satale/Packmate">
-    <img src="https://skillicons.dev/icons?i=github" width="32"/>
-  </a>
-</p>
+### 🔹 PackMate – AI-Powered Travel Assistant  
+**MERN + GenAI | Aug 2025 – Jan 2026**
+
+PackMate is an AI-driven travel planning platform that generates **smart packing lists** based on destination, weather, and trip duration using LLMs.
+
+**🔧 Tech Stack:** React, Node.js, Express, MongoDB, FastAPI, Groq API (Llama 3), JWT  
+**✨ Key Highlights:**
+- 🤖 AI-based packing recommendations using real-time inputs  
+- 📦 Export packing lists to DOCX  
+- 🔐 Secure authentication (JWT + bcrypt)  
+- 🌦️ Weather-aware travel planning  
+
+🔗 **Live Demo:** https://packmatefrontend.vercel.app/  
+💻 **GitHub:** https://github.com/Onkar-Satale/Packmate  
 
 ---
 
-### 🔹 Swift API – Smart API Tester  
-MERN + GenAI  
-<p>
-  🧠 AI debugging assistant for API errors  
-  📡 Request testing + history + collections  
-  <br/>
-  <a href="https://swift-api-iota.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="32"/>
-  </a>
-  <a href="https://github.com/Onkar-Satale/Swift_API_mern">
-    <img src="https://skillicons.dev/icons?i=github" width="32"/>
-  </a>
-</p>
+### 🔹 Swift API – Smart API Testing Tool  
+**MERN + GenAI | Dec 2025 – Jan 2026**
+
+A full-stack API testing platform with an **AI-powered debugging assistant** that explains and resolves API errors intelligently.
+
+**🔧 Tech Stack:** React, Node.js, Express, MongoDB, FastAPI, Groq API  
+**✨ Key Highlights:**
+- 📡 Send and manage API requests (GET, POST, PUT, DELETE)  
+- 🧠 AI debugging assistant for error explanation & fixes  
+- 📂 Request history & collections  
+- 🔐 JWT-based authentication  
+- ⚡ Fast and scalable backend  
+
+🔗 **Live Demo:** https://swift-api-iota.vercel.app/  
+💻 **GitHub:** https://github.com/Onkar-Satale/Swift_API_mern  
 
 ---
 
 ### 🔹 Academic Engagement Portal  
-Full Stack Web App  
-<p>
-  🏫 Academic management system  
-  🗄️ SQL-based structured backend  
-  <br/>
-  <a href="https://academic-engagement-portal-q9rw.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="32"/>
-  </a>
-  <a href="https://github.com/Onkar-Satale/Academic-Engagement-Portal">
-    <img src="https://skillicons.dev/icons?i=github" width="32"/>
-  </a>
-</p> 
+**Full Stack Web App | Jan 2024 – May 2024**
+
+A centralized academic platform to manage users, courses, and communication within institutions.
+
+**🔧 Tech Stack:** React, Node.js, Express, SQL  
+**✨ Key Highlights:**
+- 🏫 Centralized academic management system  
+- 🔗 Structured relational database design  
+- 🔐 Secure and scalable backend architecture  
+
+🔗 **Live Demo:** https://academic-engagement-portal-q9rw.vercel.app/  
+💻 **GitHub:** https://github.com/Onkar-Satale/Academic-Engagement-Portal  
 
 ---
 
