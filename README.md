@@ -53,13 +53,16 @@
 ### 🤖 AI / GenAI Stack
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink" />
   <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks" />
+  <img src="https://img.shields.io/badge/Vector%20DB-0D1117?style=for-the-badge&logo=redis" />
 </p>
-
 ---
 
 ### 🗄️ Data Management
