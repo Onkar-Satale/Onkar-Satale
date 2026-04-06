@@ -132,5 +132,5 @@
 ## 💡 Developer Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E8FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.+Repeat.+🚀;Think+Like+a+Developer+💻;Consistency+Beats+Talent+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=39FF14&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.+Repeat.+🚀;Think+Like+a+Developer+💻;Consistency+Beats+Talent+🔥" />
 </p>
