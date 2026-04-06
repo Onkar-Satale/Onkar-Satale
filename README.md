@@ -1,49 +1,56 @@
-<!-- Gradient Header Banner -->
+<!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+There%2C+I'm+Onkar+Satale+🚀;Full-Stack+Developer+%7C+GenAI+Developer;MERN+%7C+Node.js+%7C+Python+%7C+FastAPI;Problem+Solver+%7C+Building+AI+Apps+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Onkar+Satale;Full+Stack+Developer+%7C+GenAI+Builder;MERN+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+into+Real+World+Apps+🚀" />
 </p>
 
 ---
 
-# 👋 Hello World! I'm **Onkar Satale** 🚀  
+# 🌍 Welcome to My World  
+
+### 👨‍💻 **Onkar Satale**
+> Full Stack Developer | GenAI Developer | Problem Solver  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0D1117?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/GenAI%20Developer-0D1117?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-0D1117?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/GenAI%20Builder-0D1117?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/DSA%20Focused-0D1117?style=for-the-badge&logo=leetcode" />
 </p>
 
 ---
 
-## 🎯 **What I'm Up To**
+## 🚧 Current Focus Zone
 
-### 🔧 **Currently Working On**
-- 🚀 Building scalable **MERN Stack applications**  
-- 🤖 Developing **GenAI tools using OpenAI & LangChain**  
-- 🧠 Practicing **DSA in C++ for placements**  
-
----
-
-## 🤝 **Looking to Collaborate On**
-- 🔹 AI + GenAI projects  
-- 🔹 Full-stack apps using **React, Node.js, REST APIs**  
-- 🔹 Open-source contributions  
+- 🚀 Engineering scalable **Full Stack (MERN) applications**  
+- 🤖 Creating **AI-powered tools using OpenAI & LangChain**  
+- 🧠 Strengthening **Data Structures & Algorithms (C++)**  
 
 ---
 
-## ⚙️ **Tech Stack**
+## 🌐 Collaboration Arena
 
-### 🖥️ **Frontend**
+- 🔹 AI + GenAI based applications  
+- 🔹 Modern Full Stack Web Apps  
+- 🔹 Open Source Contributions  
+
+---
+
+## 🧠 Tech Arsenal
+
+### 🎨 Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,ts,angular" />
 </p>
 
-### 🛠️ **Backend**
+---
+
+### ⚙️ Backend Engineering
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,python,fastapi" />
 </p>
 
-### 🤖 **GenAI & AI**
+---
+
+### 🤖 AI / GenAI Stack
 - OpenAI API  
 - LangChain  
 - ChatGPT Integration  
@@ -51,31 +58,49 @@
 
 ---
 
-### 🗄️ **Databases**
+### 🗄️ Data Management
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
 
-### 🧰 **Tools**
+### 🧰 Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
 
-## 🚀 **Projects**
+## 🚀 Featured Work
 
-- 🔹 **API Debugger (GenAI Powered)**  
-  → AI tool like Postman that explains API errors & suggests fixes  
+### 🔹 GenAI API Debugger  
+→ Smart debugging tool (like Postman) with AI-based error explanations  
 
-- 🔹 **PackMate (AI Travel Planner)**  
-  → Generates smart travel packing list based on destination & weather  
+### 🔹 PackMate – AI Travel Planner  
+→ Generates dynamic packing lists based on destination & weather  
 
 ---
 
-## 🐍 **Contribution Snake**
+## 📊 Development Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Satale&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Satale&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Growth Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -83,7 +108,15 @@
 
 ---
 
-# 📫 **Connect With Me**
+## 🏆 Achievements & Progress
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkar-Satale&theme=onedark" />
+</p>
+
+---
+
+## 📫 Reach Out to Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/satale-onkar-7332b0220/">
@@ -96,8 +129,8 @@
 
 ---
 
-## ⭐ **“Code. Learn. Build. Repeat.”**
+## 💡 Developer Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E8FF&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.+⭐;Keep+Building+🚀;Stay+Consistent+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E8FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.+Repeat.+🚀;Think+Like+a+Developer+💻;Consistency+Beats+Talent+🔥" />
 </p>
