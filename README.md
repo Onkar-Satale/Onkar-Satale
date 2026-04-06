@@ -94,7 +94,7 @@
 ## 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=chartreuse-dark" />
 </p>
 
 ---
