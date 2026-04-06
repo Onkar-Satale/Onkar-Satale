@@ -61,9 +61,10 @@
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink" />
   <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface" />
   <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks" />
-  <img src="https://img.shields.io/badge/Vector%20DB-0D1117?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/VectorDB-0D1117?style=for-the-badge&logo=redis" />
 </p>
----
+
+----
 
 ### 🗄️ Data Management
 <p align="left">
@@ -146,9 +147,8 @@ A centralized academic platform to manage users, courses, and communication with
 ## 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=github-dark" />
 </p>
-
 
 ---
 
