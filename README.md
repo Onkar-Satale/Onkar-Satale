@@ -82,54 +82,55 @@
 
 ## 🚀 Featured Work
 
-### 🔹 PackMate – AI-Powered Travel Assistant  
-**MERN + GenAI | Aug 2025 – Jan 2026**
+🔹 PackMate – AI Travel Assistant
 
-PackMate is an AI-driven travel planning platform that generates **smart packing lists** based on destination, weather, and trip duration using LLMs.
+MERN + GenAI | Aug 2025 – Jan 2026
 
-**🔧 Tech Stack:** React, Node.js, Express, MongoDB, FastAPI, Groq API (Llama 3), JWT  
-**✨ Key Highlights:**
-- 🤖 AI-based packing recommendations using real-time inputs  
-- 📦 Export packing lists to DOCX  
-- 🔐 Secure authentication (JWT + bcrypt)  
-- 🌦️ Weather-aware travel planning  
+AI-powered platform that generates smart packing lists based on destination, weather, and trip duration.
 
-🔗 **Live Demo:** https://packmatefrontend.vercel.app/  
-💻 **GitHub:** https://github.com/Onkar-Satale/Packmate  
+🔧 Tech: React, Node.js, Express, MongoDB, FastAPI, Groq (Llama 3), JWT
 
----
+✨ Highlights:
 
-### 🔹 Swift API – Smart API Testing Tool  
-**MERN + GenAI | Dec 2025 – Jan 2026**
-
-A full-stack API testing platform with an **AI-powered debugging assistant** that explains and resolves API errors intelligently.
-
-**🔧 Tech Stack:** React, Node.js, Express, MongoDB, FastAPI, Groq API  
-**✨ Key Highlights:**
-- 📡 Send and manage API requests (GET, POST, PUT, DELETE)  
-- 🧠 AI debugging assistant for error explanation & fixes  
-- 📂 Request history & collections  
-- 🔐 JWT-based authentication  
-- ⚡ Fast and scalable backend  
-
-🔗 **Live Demo:** https://swift-api-iota.vercel.app/  
-💻 **GitHub:** https://github.com/Onkar-Satale/Swift_API_mern  
+🤖 AI-based packing recommendations
+🌦️ Weather-aware planning
+📦 Export to DOCX
+🔐 Secure authentication
+<p> <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" /> </p>  
 
 ---
 
-### 🔹 Academic Engagement Portal  
-**Full Stack Web App | Jan 2024 – May 2024**
+🔹 Swift API – Smart API Testing Tool
 
-A centralized academic platform to manage users, courses, and communication within institutions.
+MERN + GenAI | Dec 2025 – Jan 2026
 
-**🔧 Tech Stack:** React, Node.js, Express, SQL  
-**✨ Key Highlights:**
-- 🏫 Centralized academic management system  
-- 🔗 Structured relational database design  
-- 🔐 Secure and scalable backend architecture  
+Full-stack API testing platform with an AI-powered debugging assistant for resolving API errors.
 
-🔗 **Live Demo:** https://academic-engagement-portal-q9rw.vercel.app/  
-💻 **GitHub:** https://github.com/Onkar-Satale/Academic-Engagement-Portal  
+🔧 Tech: React, Node.js, Express, MongoDB, FastAPI, Groq
+
+✨ Highlights:
+
+📡 API requests (GET, POST, PUT, DELETE)
+🧠 AI error explanation & fixes
+📂 Request history & collections
+🔐 Secure authentication
+<p> <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" /> </p> 
+
+---
+🔹 Academic Engagement Portal
+
+Full Stack Web App | Jan 2024 – May 2024
+
+Centralized platform for managing academic users, courses, and communication.
+
+🔧 Tech: React, Node.js, Express, SQL
+
+✨ Highlights:
+
+🏫 Academic management system
+🔗 Relational database design
+🔐 Scalable backend
+<p> <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" /> </p>
 
 ---
 
