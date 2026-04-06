@@ -108,13 +108,6 @@
 
 ---
 
-## 🏆 Achievements & Progress
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onkar-Satale&theme=onedark" />
-</p>
-
----
 
 ## 📫 Reach Out to Me
 
