@@ -127,7 +127,9 @@ Full-stack API testing platform with an AI-powered debugging assistant for resol
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 ---
+
 ### 🔹 Academic Engagement Portal  
 **Full Stack Web App | Jan 2024 – May 2024**
 
@@ -148,8 +150,8 @@ Centralized platform for managing academic users, courses, and communication.
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
   </a>
 </p>
----
 
+---
 
 ## 📊 Development Activity
 
