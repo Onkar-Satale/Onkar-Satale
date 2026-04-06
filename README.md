@@ -81,11 +81,51 @@
 
 ## 🚀 Featured Work
 
-### 🔹 GenAI API Debugger  
-→ Smart debugging tool (like Postman) with AI-based error explanations  
+### 🔹 PackMate – AI Travel Assistant  
+MERN + GenAI  
+<p>
+  🤖 AI packing lists based on weather & trip  
+  🔐 JWT Auth | 📦 Export to DOCX  
+  <br/>
+  <a href="https://packmatefrontend.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="32"/>
+  </a>
+  <a href="https://github.com/Onkar-Satale/Packmate">
+    <img src="https://skillicons.dev/icons?i=github" width="32"/>
+  </a>
+</p>
 
-### 🔹 PackMate – AI Travel Planner  
-→ Generates dynamic packing lists based on destination & weather  
+---
+
+### 🔹 Swift API – Smart API Tester  
+MERN + GenAI  
+<p>
+  🧠 AI debugging assistant for API errors  
+  📡 Request testing + history + collections  
+  <br/>
+  <a href="https://swift-api-iota.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="32"/>
+  </a>
+  <a href="https://github.com/Onkar-Satale/Swift_API_mern">
+    <img src="https://skillicons.dev/icons?i=github" width="32"/>
+  </a>
+</p>
+
+---
+
+### 🔹 Academic Engagement Portal  
+Full Stack Web App  
+<p>
+  🏫 Academic management system  
+  🗄️ SQL-based structured backend  
+  <br/>
+  <a href="https://academic-engagement-portal-q9rw.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="32"/>
+  </a>
+  <a href="https://github.com/Onkar-Satale/Academic-Engagement-Portal">
+    <img src="https://skillicons.dev/icons?i=github" width="32"/>
+  </a>
+</p> 
 
 ---
 
