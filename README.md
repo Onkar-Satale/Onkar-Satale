@@ -195,8 +195,8 @@ Centralized platform for managing academic users, courses, and communication.
     <img src="https://skillicons.dev/icons?i=gmail" width="48px" title="Gmail"/>
   </a>
   <a href="https://portfolio-mu-one-n3zkisj3jp.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" width="48px" title="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+</a>
 </p>
 
 ---
