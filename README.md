@@ -185,15 +185,17 @@ Centralized platform for managing academic users, courses, and communication.
 
 ---
 
-
-## 📫 Reach Out to Me
+# 📫 Reach Out to Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/satale-onkar-7332b0220/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px"/>
+  <a href="https://www.linkedin.com/in/satale-onkar-7332b0220/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" title="LinkedIn"/>
   </a>
   <a href="mailto:onkarsatale4@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48px"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px" title="Gmail"/>
+  </a>
+  <a href="https://sataleonkar.me/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" width="48px" title="Portfolio"/>
   </a>
 </p>
 
