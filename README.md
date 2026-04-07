@@ -194,7 +194,7 @@ Centralized platform for managing academic users, courses, and communication.
   <a href="mailto:onkarsatale4@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48px" title="Gmail"/>
   <a href="https://portfolio-mu-one-n3zkisj3jp.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Onkar-Satale/Onkar-Satale/main/logo.jpeg" width="48px" title="Portfolio" style="border-radius:10px;"/>
+  <img src="https://raw.githubusercontent.com/Onkar-Satale/Onkar-Satale/main/logo.jpeg" width="48px" title="Portfolio" style="border-radius:20px;"/>
 </a>
 </p>
 
