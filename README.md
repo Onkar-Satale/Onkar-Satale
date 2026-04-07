@@ -197,10 +197,12 @@ Centralized platform for managing academic users, courses, and communication.
     <img src="https://skillicons.dev/icons?i=gmail" width="48px" title="Gmail"/>
     
   <a href="https://portfolio-mu-one-n3zkisj3jp.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Onkar-Satale/Onkar-Satale/main/logo.jpeg"
-       width="48px"
-       title="Portfolio"
-       style="border-radius:50%; display:block;"/>
+  <div style="width:48px; height:48px; border-radius:50%; overflow:hidden;">
+    <img src="https://raw.githubusercontent.com/Onkar-Satale/Onkar-Satale/main/logo.jpeg"
+         width="48px"
+         height="48px"
+         title="Portfolio"/>
+  </div>
 </a>
 
 </p>
