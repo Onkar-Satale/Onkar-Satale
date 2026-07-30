@@ -1,6 +1,6 @@
-<!-- 🔥 Animated Header -->
+<!-- 🔥 Animated Top Header (Green Theme) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=gray&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Onkar+Satale;Full+Stack+Developer+%7C+GenAI+Builder;MERN+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+into+Real+World+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=39FF14&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Onkar+Satale;Full+Stack+Developer+%7C+GenAI+Builder;MERN+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+into+Real+World+Apps+🚀" alt="Typing Header" />
 </p>
 
 ---
@@ -11,79 +11,69 @@
 > Full Stack Developer | GenAI Developer | Problem Solver  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/GenAI%20Builder-0D1117?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/DSA%20Focused-0D1117?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GenAI%20Builder-0D1117?style=for-the-badge&logo=openai&logoColor=412991" />
+  <img src="https://img.shields.io/badge/FastAPI%20%26%20Python-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/DSA%20Focused-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </p>
 
 ---
 
 ## 🚧 Current Focus Zone
 
-- 🚀 Engineering scalable **Full Stack (MERN) applications**  
-- 🤖 Creating **AI-powered tools using OpenAI & LangChain**  
-- 🧠 Strengthening **Data Structures & Algorithms (C++)**  
+- 🚀 **Full-Stack Engineering:** Building scalable MERN & FastAPI web applications.
+- 🤖 **GenAI & Agents:** Creating intelligent AI tools using Groq LLMs, LangChain & OpenAI.
+- 🧠 **Problem Solving:** Strengthening Data Structures & Algorithms (C++ / Python).
 
 ---
 
 ## 🌐 Collaboration Arena
 
-- 🔹 AI + GenAI based applications  
-- 🔹 Modern Full Stack Web Apps  
-- 🔹 Open Source Contributions  
+- 🔹 **AI & GenAI Solutions:** Smart assistants, RAG applications, and LLM microservices.
+- 🔹 **Full-Stack Projects:** End-to-end web apps with secure auth, REST APIs, and modern UIs.
+- 🔹 **Open Source:** Active contributions to modern developer tooling & repositories.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Ecosystem
 
 ### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,ts,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap" alt="Frontend Stack" />
 </p>
-
----
 
 ### ⚙️ Backend Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend Stack" />
 </p>
 
----
-
-### 🤖 AI / GenAI Stack
+### 🤖 AI / GenAI Ecosystem
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink" />
+  <img src="https://img.shields.io/badge/Groq%20LLM-0D1117?style=for-the-badge&logo=openai&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2" />
   <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks" />
-  <img src="https://img.shields.io/badge/VectorDB-0D1117?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/RAG%20Architecture-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+  <img src="https://img.shields.io/badge/VectorDB-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
 </p>
 
----
-
-### 🗄️ Data Management
+### 🗄️ Database & Storage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
 
----
-
-### 🧰 Development Tools
+### 🧰 Developer Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase" alt="Dev Tools" />
 </p>
 
----
-
-### 🚀 Deployment Tools
+### 🚀 Cloud & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render" />  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Services" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
 </p>
 
 ---
@@ -93,46 +83,46 @@
 ### 🔹 PackMate – AI Travel Assistant  
 **MERN + GenAI | Aug 2025 – Jan 2026**
 
-AI-powered platform that generates smart packing lists based on destination, weather, and trip duration.
+Smart AI-powered travel platform that generates context-aware packing lists based on destination weather, duration, and trip category.
 
-**🔧 Tech:** React, Node.js, Express, MongoDB, FastAPI, Groq (Llama 3), JWT  
+**🔧 Tech:** `React` • `Node.js` • `Express` • `MongoDB` • `FastAPI` • `Groq (Llama 3)` • `JWT`  
 
-**✨ Highlights:**
-- 🤖 AI-based packing recommendations  
-- 🌦️ Weather-aware planning  
-- 📦 Export to DOCX  
-- 🔐 Secure authentication  
+**✨ Key Highlights:**
+- 🤖 AI-driven dynamic packing recommendations
+- 🌦️ Live weather-aware trip planning
+- 📦 Export packing lists to DOCX format
+- 🔐 Secure JWT authentication with HTTP-only cookies
 
 <p>
-  <a href="https://packmatefrontend.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
+  <a href="https://packmatefrontend.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Onkar-Satale/Packmate">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Onkar-Satale/Packmate" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🔹 Swift API – Smart API Testing Tool  
-**MERN + GenAI | Dec 2025 – Jan 2026**
+### 🔹 Swift API – Smart Full-Stack API Testing & AI Debugger  
+**MERN + GenAI Microservice | Dec 2025 – Jan 2026**
 
-Full-stack API testing platform with an AI-powered debugging assistant for resolving API errors.
+High-throughput API testing platform equipped with an intelligent AI diagnostic microservice powered by Groq LLM to instantly explain API failures and recommend actionable fixes.
 
-**🔧 Tech:** React, Node.js, Express, MongoDB, FastAPI, Groq  
+**🔧 Tech:** `React` • `Node.js` • `Express` • `MongoDB` • `FastAPI` • `Groq LLM`  
 
-**✨ Highlights:**
-- 📡 API requests (GET, POST, PUT, DELETE)  
-- 🧠 AI error explanation & fixes  
-- 📂 Request history & collections  
-- 🔐 Secure authentication  
+**✨ Key Highlights:**
+- 📡 Full HTTP Request Engine (`GET`, `POST`, `PUT`, `DELETE`, `PATCH`)
+- 🤖 One-click AI Error Diagnosis on `4xx`/`5xx` responses
+- 📂 Persistent request history & organized test collections
+- 🔐 Token rotation & inter-service secret security
 
 <p>
-  <a href="https://swift-api-iota.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
+  <a href="https://swift-api-iota.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Onkar-Satale/Swift_API_mern">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Onkar-Satale/Swift_API_mern" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -141,74 +131,69 @@ Full-stack API testing platform with an AI-powered debugging assistant for resol
 ### 🔹 Academic Engagement Portal  
 **Full Stack Web App | Jan 2024 – May 2024**
 
-Centralized platform for managing academic users, courses, and communication.
+Centralized management portal for academic user roles, course enrollment, communication, and analytics.
 
-**🔧 Tech:** React, Node.js, Express, SQL  
+**🔧 Tech:** `React` • `Node.js` • `Express` • `MySQL`  
 
-**✨ Highlights:**
-- 🏫 Academic management system  
-- 🔗 Relational database design  
-- 🔐 Scalable backend  
+**✨ Key Highlights:**
+- 🏫 Multi-role academic user management
+- 🔗 Optimized relational database schema
+- 🔐 Scalable backend architecture with RESTful APIs
 
 <p>
-  <a href="https://academic-engagement-portal-q9rw.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
+  <a href="https://academic-engagement-portal-q9rw.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Onkar-Satale/Academic-Engagement-Portal">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Onkar-Satale/Academic-Engagement-Portal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 Development Activity
+## 📊 Development Activity & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Onkar-Satale&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Onkar-Satale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 Growth Graph
+## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Grid Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-# 📫 Reach Out to Me
+# 📫 Connect & Reach Out
 
-<p align="left">
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/satale-onkar-7332b0220/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" title="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn" alt="LinkedIn" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:onkarsatale4@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48px" title="Gmail"/>
-    
- <a href="https://portfolio-mu-one-n3zkisj3jp.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Onkar-Satale/Onkar-Satale/main/logo.jpeg"
-       width="48px"
-       title="Portfolio"
-       style="border-radius:50%; border:2px solid #ccc;"/>
-</a>
-
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" title="Gmail" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-mu-one-n3zkisj3jp.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Onkar-Satale/Onkar-Satale/main/logo.jpeg" width="48" height="48" title="Portfolio" alt="Portfolio" style="border-radius:50%; border:2px solid #39FF14; object-fit:cover;" />
+  </a>
 </p>
 
 ---
 
-## 💡 Developer Mindset
-
+<!-- 🔥 Animated Footer Header (Green Theme) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=39FF14&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.+Repeat.+🚀;Think+Like+a+Developer+💻;Consistency+Beats+Talent+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=39FF14&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.+Repeat.+🚀;Think+Like+a+Developer+💻;Consistency+Beats+Talent+🔥" alt="Typing Footer" />
 </p>
