@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GenAI%20Builder-0D1117?style=for-the-badge&logo=openai&logoColor=412991" />
   <img src="https://img.shields.io/badge/FastAPI%20%26%20Python-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/C%2B%2B%20%26%20DSA-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 </p>
 
 ---
