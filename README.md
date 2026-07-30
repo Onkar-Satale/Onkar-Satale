@@ -29,9 +29,8 @@
 
 ## 🌐 Collaboration Arena
 
-- 🔹 **AI & GenAI Solutions:** Smart assistants, RAG applications, and LLM microservices.
-- 🔹 **Full-Stack Projects:** End-to-end web apps with secure auth, REST APIs, and modern UIs.
-- 🔹 **Open Source:** Active contributions to modern developer tooling & repositories.
+- 🔹 **AI + GenAI Applications:** Smart assistants, RAG architectures, and LLM microservices.
+- 🔹 **Modern Full-Stack Web Apps:** End-to-end applications with JWT auth, REST APIs, and modern UIs.
 
 ---
 
@@ -42,10 +41,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap" alt="Frontend Stack" />
 </p>
 
+---
+
 ### ⚙️ Backend Engineering
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend Stack" />
 </p>
+
+---
 
 ### 🤖 AI / GenAI Ecosystem
 <p align="left">
@@ -58,15 +61,21 @@
   <img src="https://img.shields.io/badge/VectorDB-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
 </p>
 
+---
+
 ### 🗄️ Database & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
 
+---
+
 ### 🧰 Developer Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase" alt="Dev Tools" />
 </p>
+
+---
 
 ### 🚀 Cloud & Deployment
 <p align="left">
@@ -167,25 +176,17 @@ Centralized management portal for academic user roles, course enrollment, commun
 
 ---
 
-## 🐍 Contribution Grid Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
 # 📫 Connect & Reach Out
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/satale-onkar-7332b0220/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:onkarsatale4@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" title="Gmail" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://portfolio-mu-one-n3zkisj3jp.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/Onkar-Satale/Onkar-Satale/main/logo.jpeg" width="48" height="48" title="Portfolio" alt="Portfolio" style="border-radius:50%; border:2px solid #39FF14; object-fit:cover;" />
   </a>
