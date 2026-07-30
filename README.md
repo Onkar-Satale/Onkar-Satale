@@ -71,8 +71,6 @@
 
 ### 🧠 Core CS Fundamentals
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  &nbsp;
   <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
