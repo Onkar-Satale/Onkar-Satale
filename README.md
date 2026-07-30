@@ -5,13 +5,13 @@
 
 ---
 
-# 🌍 Welcome to My World  
+# 🌍 Welcome to My Profile  
 
 ### 👨‍💻 **Onkar Satale**
-> Full Stack Developer | GenAI Builder | Computer Engineering Student @ PICT  
-> 📍 Pune, Maharashtra, India  
+> Full Stack Developer | GenAI Builder | CS @ PICT Pune 🎓  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/📍%20Location-Pune%2C%20India-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GenAI%20Builder-0D1117?style=for-the-badge&logo=openai&logoColor=412991" />
   <img src="https://img.shields.io/badge/FastAPI%20%26%20Python-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
@@ -20,47 +20,24 @@
 
 ---
 
-## 💼 Work Experience
+## ⚡ Quick Bio
 
-### 🔹 **MERN Stack Developer Intern** | *LearnCraft Engineering*
-**Mar 2026 – Jul 2026 | Pune, India**
-- Developed a full-stack NGO platform using MERN stack to streamline volunteer management & workflows.
-- Designed MongoDB schemas and integrated role-based access control (RBAC) with secure JWT auth.
-- Implemented responsive frontend interfaces and high-throughput REST APIs using React & Express.
-
----
-
-### 🔹 **Full Stack Developer Intern** | *Prodigy InfoTech*
-**Jun 2025 – Jul 2025 | Pune, India**
-- Built a Student Management System using MERN stack with secure JWT-based authentication & authorization.
-- Created responsive UI components, optimizing frontend user interactions & CRUD operations.
+- 💻 **Engineering Student** at *Pune Institute of Computer Technology (PICT)* (CGPA: 8.75)
+- 💼 **MERN Stack Developer Intern** @ *LearnCraft Engineering*
+- 💼 **Full Stack Developer Intern** @ *Prodigy InfoTech*
+- 🧠 Deeply interested in **LLMs, RAG Architectures, AI Agents, and Scalable Backend Systems**.
 
 ---
 
-## 🎓 Education & Background
+## 🌐 What I'm Building & Exploring
 
-- 🎓 **Bachelor of Engineering (B.E.)** – *Pune Institute of Computer Technology (PICT)*  
-  **Sep 2023 – May 2027** | **CGPA: 8.75 / 10.0**
-- 🏫 **Higher Secondary Certificate (HSC: 74.17%)** – *MBBS Junior College*
-
----
-
-## 🚧 Current Focus Zone
-
-- 🚀 **Full-Stack Engineering:** Building scalable MERN & FastAPI web applications.
-- 🤖 **GenAI & AI Agents:** Crafting intelligent tools using Groq LLMs, LangChain, RAG & OpenAI.
-- 🧠 **Problem Solving:** Strengthening Data Structures & Algorithms (C++ / Python).
+- 🚀 **Full-Stack MERN & FastAPI** applications with secure, production-ready architecture.
+- 🤖 **GenAI Products** using Groq LLMs, OpenAI, LangChain, and ChromaDB.
+- 🧩 Solving core CS problems in **Data Structures & Algorithms (C++)**.
 
 ---
 
-## 🌐 Collaboration Arena
-
-- 🔹 **AI + GenAI Applications:** Smart assistants, RAG architectures, and LLM microservices.
-- 🔹 **Modern Full-Stack Web Apps:** End-to-end applications with JWT auth, REST APIs, and modern UIs.
-
----
-
-## ⚙️ Tech Stack & Ecosystem
+## ⚙️ Tech Stack & Tools
 
 ### 🎨 Frontend Development
 <p align="left">
@@ -82,13 +59,13 @@
   <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2" />
   <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-  <img src="https://img.shields.io/badge/RAG%20Architecture-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+  <img src="https://img.shields.io/badge/VectorDB-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
 </p>
 
 ---
 
-### 🗄️ Database & Core CS Concepts
+### 🗄️ Database & CS Fundamentals
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp" alt="Databases" />
 </p>
@@ -96,8 +73,6 @@
   <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge" />
 </p>
 
@@ -129,12 +104,6 @@ Smart AI-powered travel platform that generates context-aware packing lists base
 
 **🔧 Tech:** `React` • `Node.js` • `Express` • `MongoDB` • `FastAPI` • `Groq (Llama 3)` • `JWT`  
 
-**✨ Key Highlights:**
-- 🤖 AI-driven dynamic packing recommendations
-- 🌦️ Live weather-aware trip planning
-- 📦 Export packing lists to DOCX format
-- 🔐 Secure JWT authentication with HTTP-only cookies
-
 <p>
   <a href="https://packmatefrontend.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -152,12 +121,6 @@ Smart AI-powered travel platform that generates context-aware packing lists base
 High-throughput API testing platform equipped with an intelligent AI diagnostic microservice powered by Groq LLM to instantly explain API failures and recommend actionable fixes.
 
 **🔧 Tech:** `React` • `Node.js` • `Express` • `MongoDB` • `FastAPI` • `Groq LLM`  
-
-**✨ Key Highlights:**
-- 📡 Full HTTP Request Engine (`GET`, `POST`, `PUT`, `DELETE`, `PATCH`)
-- 🤖 One-click AI Error Diagnosis on `4xx`/`5xx` responses
-- 📂 Persistent request history & organized test collections
-- 🔐 Token rotation & inter-service secret security
 
 <p>
   <a href="https://swift-api-iota.vercel.app/" target="_blank">
@@ -177,11 +140,6 @@ Centralized management portal for academic user roles, course enrollment, commun
 
 **🔧 Tech:** `React` • `Node.js` • `Express` • `MySQL`  
 
-**✨ Key Highlights:**
-- 🏫 Multi-role academic user management
-- 🔗 Optimized relational database schema
-- 🔐 Scalable backend architecture with RESTful APIs
-
 <p>
   <a href="https://academic-engagement-portal-q9rw.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -190,20 +148,6 @@ Centralized management portal for academic user roles, course enrollment, commun
     <img src="https://img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📜 Verified Certifications
-
-- 🏆 **Meta:** *Introduction to Front-End Development* – Coursera
-- 🏆 **Full Stack Generative and Agentic AI with Python** – Udemy
-
----
-
-## 👥 Leadership & Campus Activities
-
-- 🤝 **PICT NSS Volunteer:** Participated in rural social programs, fostering teamwork, adaptability, and project management.
-- ⚡ **Web Dev SIG Organizer (ACM Club PICT):** Conducted mentoring sessions, workshops, and technical team growth.
 
 ---
 
