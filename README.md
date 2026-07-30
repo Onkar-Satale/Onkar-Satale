@@ -11,7 +11,6 @@
 > Full Stack Developer | GenAI Builder | CS @ PICT Pune 🎓  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Location-Pune%2C%20India-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GenAI%20Builder-0D1117?style=for-the-badge&logo=openai&logoColor=412991" />
   <img src="https://img.shields.io/badge/FastAPI%20%26%20Python-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
@@ -33,7 +32,6 @@
 
 - 🚀 **Full-Stack MERN & FastAPI** applications with secure, production-ready architecture.
 - 🤖 **GenAI Products** using Groq LLMs, OpenAI, LangChain, and ChromaDB.
-- 🧩 Solving core CS problems in **Data Structures & Algorithms (C++)**.
 
 ---
 
@@ -65,15 +63,16 @@
 
 ---
 
-### 🗄️ Database & CS Fundamentals
+### 🗄️ Database & Core CS Fundamentals
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp" alt="Databases" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20%26%20C%2B%2B-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" />
 </p>
 
 ---
@@ -104,6 +103,12 @@ Smart AI-powered travel platform that generates context-aware packing lists base
 
 **🔧 Tech:** `React` • `Node.js` • `Express` • `MongoDB` • `FastAPI` • `Groq (Llama 3)` • `JWT`  
 
+**✨ Key Highlights:**
+- 🤖 AI-driven dynamic packing recommendations based on destination & duration
+- 🌦️ Live weather-aware trip planning and itinerary generator
+- 📦 Export custom packing lists directly to DOCX format
+- 🔐 Secure JWT user authentication with HTTP-only cookies
+
 <p>
   <a href="https://packmatefrontend.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -122,6 +127,12 @@ High-throughput API testing platform equipped with an intelligent AI diagnostic 
 
 **🔧 Tech:** `React` • `Node.js` • `Express` • `MongoDB` • `FastAPI` • `Groq LLM`  
 
+**✨ Key Highlights:**
+- 📡 Full HTTP Request Engine (`GET`, `POST`, `PUT`, `DELETE`, `PATCH`) with custom headers & payload support
+- 🤖 One-click AI Error Diagnosis on `4xx`/`5xx` HTTP responses powered by FastAPI & Groq LLM
+- 📂 Persistent request history in MongoDB & organized workflow test collections
+- 🔐 Token rotation auth, Express rate limiters, and inter-service API key security
+
 <p>
   <a href="https://swift-api-iota.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -136,16 +147,21 @@ High-throughput API testing platform equipped with an intelligent AI diagnostic 
 ### 🔹 Academic Engagement Portal  
 **Full Stack Web App | Jan 2024 – May 2024**
 
-Centralized management portal for academic user roles, course enrollment, communication, and analytics.
+Centralized management portal for academic user roles, course enrollment, communication, and educational resources.
 
 **🔧 Tech:** `React` • `Node.js` • `Express` • `MySQL`  
+
+**✨ Key Highlights:**
+- 🏫 Multi-role academic user management (students, faculty, administrators)
+- 🔗 Optimized relational SQL database schema for user & course records
+- 🔐 Scalable backend architecture built with RESTful APIs
 
 <p>
   <a href="https://academic-engagement-portal-q9rw.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Onkar-Satale/Academic-Engagement-Portal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://github.com/img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -187,5 +203,5 @@ Centralized management portal for academic user roles, course enrollment, commun
 
 <!-- 🔥 Animated Footer Header (Green Theme) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=39FF14&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.+Repeat.+🚀;Think+Like+a+Developer+💻;Consistency+Beats+Talent+🔥" alt="Typing Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=39FF14&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.+Repeat.+🚀;Think+Like+a+Developer+💻;Turning+Ideas+into+Real+World+Apps+⚡" alt="Typing Footer" />
 </p>
