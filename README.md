@@ -8,21 +8,47 @@
 # 🌍 Welcome to My World  
 
 ### 👨‍💻 **Onkar Satale**
-> Full Stack Developer | GenAI Developer | Problem Solver  
+> Full Stack Developer | GenAI Builder | Computer Engineering Student @ PICT  
+> 📍 Pune, Maharashtra, India  
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GenAI%20Builder-0D1117?style=for-the-badge&logo=openai&logoColor=412991" />
   <img src="https://img.shields.io/badge/FastAPI%20%26%20Python-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/DSA%20Focused-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/C%2B%2B%20%26%20DSA-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 </p>
+
+---
+
+## 💼 Work Experience
+
+### 🔹 **MERN Stack Developer Intern** | *LearnCraft Engineering*
+**Mar 2026 – Jul 2026 | Pune, India**
+- Developed a full-stack NGO platform using MERN stack to streamline volunteer management & workflows.
+- Designed MongoDB schemas and integrated role-based access control (RBAC) with secure JWT auth.
+- Implemented responsive frontend interfaces and high-throughput REST APIs using React & Express.
+
+---
+
+### 🔹 **Full Stack Developer Intern** | *Prodigy InfoTech*
+**Jun 2025 – Jul 2025 | Pune, India**
+- Built a Student Management System using MERN stack with secure JWT-based authentication & authorization.
+- Created responsive UI components, optimizing frontend user interactions & CRUD operations.
+
+---
+
+## 🎓 Education & Background
+
+- 🎓 **Bachelor of Engineering (B.E.)** – *Pune Institute of Computer Technology (PICT)*  
+  **Sep 2023 – May 2027** | **CGPA: 8.75 / 10.0**
+- 🏫 **Higher Secondary Certificate (HSC: 74.17%)** – *MBBS Junior College*
 
 ---
 
 ## 🚧 Current Focus Zone
 
 - 🚀 **Full-Stack Engineering:** Building scalable MERN & FastAPI web applications.
-- 🤖 **GenAI & Agents:** Creating intelligent AI tools using Groq LLMs, LangChain & OpenAI.
+- 🤖 **GenAI & AI Agents:** Crafting intelligent tools using Groq LLMs, LangChain, RAG & OpenAI.
 - 🧠 **Problem Solving:** Strengthening Data Structures & Algorithms (C++ / Python).
 
 ---
@@ -55,17 +81,24 @@
   <img src="https://img.shields.io/badge/Groq%20LLM-0D1117?style=for-the-badge&logo=openai&logoColor=F05032" />
   <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2" />
-  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
   <img src="https://img.shields.io/badge/RAG%20Architecture-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" />
-  <img src="https://img.shields.io/badge/VectorDB-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
 </p>
 
 ---
 
-### 🗄️ Database & Storage
+### 🗄️ Database & Core CS Concepts
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp" alt="Databases" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge" />
 </p>
 
 ---
@@ -157,6 +190,20 @@ Centralized management portal for academic user roles, course enrollment, commun
     <img src="https://img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 📜 Verified Certifications
+
+- 🏆 **Meta:** *Introduction to Front-End Development* – Coursera
+- 🏆 **Full Stack Generative and Agentic AI with Python** – Udemy
+
+---
+
+## 👥 Leadership & Campus Activities
+
+- 🤝 **PICT NSS Volunteer:** Participated in rural social programs, fostering teamwork, adaptability, and project management.
+- ⚡ **Web Dev SIG Organizer (ACM Club PICT):** Conducted mentoring sessions, workshops, and technical team growth.
 
 ---
 
