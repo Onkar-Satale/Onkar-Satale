@@ -7,8 +7,7 @@
 
 # 🌍 Welcome to My Profile  
 
-### 👨‍💻 **Onkar Satale**
-> Full Stack Developer | GenAI Builder  
+### 👨‍💻 **Onkar Satale** 
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -21,7 +20,7 @@
 
 ## ⚡ Quick Bio
 
-- 🎓 **Computer Engineering Student** @ *Pune Institute of Computer Technology (PICT)*
+- 🎓 **Engineering Student** @ *Pune Institute of Computer Technology (PICT)*
 - 💼 **MERN Stack Developer Intern** @ *LearnCraft Engineering*
 - 💼 **Full Stack Developer Intern** @ *Prodigy InfoTech*
 - 🧠 **Core Focus:** *Building scalable MERN applications, GenAI microservices, & Agentic workflows.*
@@ -75,7 +74,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DSA%20%26%20C%2B%2B-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
