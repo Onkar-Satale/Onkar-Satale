@@ -150,7 +150,7 @@ High-throughput API testing platform equipped with an intelligent AI diagnostic 
 ---
 
 ### 🔹 Academic Engagement Portal  
-**Full Stack Web App | Jan 2024 – May 2024**
+**Full Stack Web App | Jan 2026 – May 2026**
 
 Centralized management portal for academic user roles, course enrollment, communication, and educational resources.
 
