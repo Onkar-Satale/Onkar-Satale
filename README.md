@@ -8,7 +8,7 @@
 # 🌍 Welcome to My Profile  
 
 ### 👨‍💻 **Onkar Satale**
-> Full Stack Developer | GenAI Builder | CS @ PICT Pune 🎓  
+> Full Stack Developer | GenAI Builder  
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -21,17 +21,18 @@
 
 ## ⚡ Quick Bio
 
-- 💻 **Engineering Student** at *Pune Institute of Computer Technology (PICT)* (CGPA: 8.75)
+- 🎓 **Computer Engineering Student** @ *Pune Institute of Computer Technology (PICT)*
 - 💼 **MERN Stack Developer Intern** @ *LearnCraft Engineering*
 - 💼 **Full Stack Developer Intern** @ *Prodigy InfoTech*
-- 🧠 Deeply interested in **LLMs, RAG Architectures, AI Agents, and Scalable Backend Systems**.
+- 🧠 **Core Focus:** *Building scalable MERN applications, GenAI microservices, & Agentic workflows.*
 
 ---
 
 ## 🌐 What I'm Building & Exploring
 
-- 🚀 **Full-Stack MERN & FastAPI** applications with secure, production-ready architecture.
-- 🤖 **GenAI Products** using Groq LLMs, OpenAI, LangChain, and ChromaDB.
+- 🚀 **Engineering scalable Full-Stack MERN & FastAPI applications** with secure, production-ready architecture.
+- 🤖 **Building GenAI Products & AI Agents** using Groq LLMs, OpenAI, LangChain, and ChromaDB.
+- ⚡ **Designing high-performance REST APIs, real-time AI microservices, and database models.**
 
 ---
 
@@ -51,7 +52,7 @@
 
 ---
 
-### 🤖 AI / GenAI Ecosystem
+### 🤖 GenAI & Agentic AI
 <p align="left">
   <img src="https://img.shields.io/badge/Groq%20LLM-0D1117?style=for-the-badge&logo=openai&logoColor=F05032" />
   <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
@@ -63,11 +64,17 @@
 
 ---
 
-### 🗄️ Database & Core CS Fundamentals
+### 🗄️ Databases & Storage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,cpp" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
+
+---
+
+### 🧠 Core CS Fundamentals
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  &nbsp;
   <img src="https://img.shields.io/badge/DSA%20%26%20C%2B%2B-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
@@ -161,7 +168,7 @@ Centralized management portal for academic user roles, course enrollment, commun
     <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Onkar-Satale/Academic-Engagement-Portal" target="_blank">
-    <img src="https://github.com/img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
