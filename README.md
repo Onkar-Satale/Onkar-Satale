@@ -172,7 +172,7 @@ Centralized management portal for academic user roles, course enrollment, commun
 ## 📊 Development Activity & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Onkar-Satale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Onkar-Satale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
