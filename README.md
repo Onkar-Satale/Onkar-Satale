@@ -175,7 +175,7 @@ Centralized management portal for academic user roles, course enrollment, commun
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Onkar-Satale&theme=tokyonight&hide_border=true&cache_seconds=86400&utm_source=chatgpt.com"
+    src="https://streak-stats.demolab.com/?user=Onkar-Satale&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub Streak"
   />
 </p>
